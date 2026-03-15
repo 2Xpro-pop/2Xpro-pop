@@ -3,7 +3,7 @@
 .NET Developer from Bishkek 🇰🇬
 
 [![Telegram](https://img.shields.io/badge/Telegram-contact-blue?logo=telegram)](https://t.me/pro_propop)
-[![Habr](https://img.shields.io/badge/Habr-blog-blue)](https://habr.com/ru/users/Popou/)
+[![Habr](https://img.shields.io/badge/-Habr-65A3BE?style=flat&logo=habr&logoColor=white)](https://habr.com/ru/users/Popou/)
 [![Medium](https://img.shields.io/badge/Medium-articles-black?logo=medium)](https://medium.com/@krendelia2021)
 
 ## 👨‍💻 About Me
